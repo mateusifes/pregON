@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "nome": "Mateus Bayerl",
-      "email": "mateus.ramiro@estudante.ifes.edu.br",
+      "nome": "Administrador",
+      "email": "admin@sistema.com",
       "senha": "Admin@123",
       "perfil": "Administrador"
     }
