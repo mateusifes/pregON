@@ -3,6 +3,8 @@ Enum centralizado para perfis de usuário.
 
 Este módulo define o Enum Perfil que é a FONTE ÚNICA DA VERDADE
 para perfis de usuário no sistema.
+
+Gerado por setup_projeto.py. Edite conforme necessário.
 """
 
 from util.enum_base import EnumEntidade
@@ -23,15 +25,13 @@ class Perfil(EnumEntidade):
 
     Exemplos:
         - Correto: perfil = Perfil.ADMIN.value
-        - Correto: perfil = Perfil.CLIENTE.value
-        - Correto: perfil = Perfil.VENDEDOR.value
+        - Correto: perfil = Perfil.COMPRADOR.value
         - ERRADO: perfil = "admin"
-        - ERRADO: perfil = "cliente"
-        - ERRADO: perfil = "vendedor"
     """
 
     # PERFIS DO SEU SISTEMA #####################################
     ADMIN = "Administrador"
-    CLIENTE = "Cliente"
-    VENDEDOR = "Vendedor"
+    COMPRADOR = "Comprador"
+    FORNECEDOR = "Fornecedor"
+    ADMINISTRADOR = "Administrador"
     # FIM DOS PERFIS ############################################
