@@ -1,4 +1,4 @@
-# DefaultWebApp - Boilerplate FastAPI Completo Teste
+# DefaultWebApp - Boilerplate FastAPI Completo
 
 > Boilerplate educacional para desenvolvimento rapido de aplicacoes web em Python. Fornece autenticacao, gerenciamento de usuarios, chat em tempo real, sistema de chamados, backups, validacao robusta e componentes UI reutilizaveis — tudo pronto para voce focar nas funcionalidades do seu projeto.
 
