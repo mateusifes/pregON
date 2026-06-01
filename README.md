@@ -73,7 +73,7 @@ Se voce esta comecando, estes termos aparecem ao longo do documento:
 
 3. **Instale as dependencias**
    ```bash
-   pip install -r requirements.txt
+  python
    ```
 
 4. **Configure as variaveis de ambiente**
